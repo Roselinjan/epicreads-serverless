@@ -24,7 +24,7 @@
 
  
 
-![Architecture](architecture.svg)
+![Architecture](https://raw.githubusercontent.com/Roselinjan/epicreads-serverless/master/architecture.svg)
 
  
 
